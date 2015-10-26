@@ -30,7 +30,8 @@ $RECYCLE.BIN/
 *.
 
 # Thumbnails
-._*.gitattributes
+._
+*.gitattributes
 
 # Files that might appear on external disk
 .Spotlight-V100
