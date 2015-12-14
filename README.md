@@ -2,7 +2,6 @@ AutoBindUI，自动绑定UI方案
 =======================
 
 使用cocostudio进行界面编辑并放到代码中使用，
-===
 为了对里面的控件元素进行操作，会使用大量的
 ccui.helper.seekWidgetByName将元素取出来并
 做注册触摸事件等等属性操作
